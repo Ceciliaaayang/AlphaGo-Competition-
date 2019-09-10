@@ -1,0 +1,12 @@
+boardsize 7
+clear_board
+play b D1
+play w E1
+play b D2
+play w E2
+play b D3
+play w E3
+play b D4
+showboard
+genmove w
+showboard
